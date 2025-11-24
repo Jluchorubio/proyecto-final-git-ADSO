@@ -1,0 +1,12 @@
+Tareas Pendientes:
+- Implementar validación del formulario
+- Revisar estilos del dashboard
+- Integrar el módulo de autenticación
+
+Tareas Realizadas:
+- Configuración inicial del proyecto
+- Merge de ramas principales
+
+Tareas Bloqueadas:
+- Conexión con API externa
+- Pruebas unitarias por falta de datos
