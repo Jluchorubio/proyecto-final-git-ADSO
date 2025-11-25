@@ -62,10 +62,19 @@ Muestra el historial de commits de forma visual y resumida.
 Te permite ver: ramas,merges,commits,estructura del proyecto
 
 
-**Flujo de trabajo recomendado:**
+**Problemas encontrados hoy**
+-Tuve conflictos al hacer merge entre varias ramas
+-El repositorio detectaba archivos que no quería subir
 
+**¿Que aprendi hoy?**
+-A usar PRs correctamente
+-A resolver conflictos en Git
+-A trabajar con ramas de forma profesional
 
-**Sección:** *"Problemas encontrados hoy"*
+**¿Que fue lo mas dificil?**
+-Entender por qué ciertas ramas no estaban actualizadas localmente
+-Manejar archivos ignorados en el .gitignore
 
-
-**Sección:** *"Conclusión del día"*
+**Conclusión del día**
+Aprendí a manejar Git y GitHub de forma estructurada, utilizando ramas,
+merges, PRs y buenas prácticas de control de versiones
